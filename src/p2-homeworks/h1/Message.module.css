@@ -1,0 +1,53 @@
+.message {
+    width: 300px;
+    background-color: greenyellow;
+    color: blueviolet;
+    height: 80px;
+}
+
+.post {
+    background-color: darkgreen;
+    text-align: left;
+    position: relative;
+    color: rgb(3, 31, 3);
+    width: 220px;
+    height: 60px;
+    float: right;
+    margin-right: 5px;
+    margin-top: 5px;
+    border-left: 12px solid greenyellow;
+    border-bottom: 8px solid transparent;
+    border-radius: 8px;
+}
+
+.avatar {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+    border-radius: 40%;
+    width: 50px;
+}
+
+.name {
+    margin-top: 10px;
+    position: absolute;
+    color: rgb(89, 28, 139);
+    position: absolute;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.postText {
+    position: absolute;
+    margin-top: 10px;
+    font-size: 18px;
+    color: rgb(203, 238, 203);
+}
+
+.time {
+    margin-top: 25px;
+    margin-right: 10px;
+    text-align: right;
+    float: right;
+    color: aquamarine;
+}
