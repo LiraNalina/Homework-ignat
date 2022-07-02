@@ -14,14 +14,14 @@
     display: flex;
     margin-left: 20px;
     line-height: 1.5;
-    color:rgb(193, 232, 219)
+    color: rgb(9, 155, 105)
 }
 
 .priority {
     display: block;
     position: absolute;
     margin-left: 140px;
-    color: rgb(129, 225, 129)
+    color: rgb(58, 146, 58)
 }
 
 .delete {
