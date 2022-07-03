@@ -1,8 +1,22 @@
 .link {
     text-decoration: none;
-    color: #4c4cc2;
+    color: #0c0c47;
 }
 
-.active {
-    color: #6cdede;
+
+
+.holder {
+    text-decoration: none;
+    color: #262698;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.holder:hover::after {
+    background: #333;
+    content: '';
+    display: inline-block;
+    height: 2px;
+    width: 100%;
+    opacity: 50%;
 }
