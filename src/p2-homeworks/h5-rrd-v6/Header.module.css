@@ -1,0 +1,8 @@
+.link {
+    text-decoration: none;
+    color: #4c4cc2;
+}
+
+.active {
+    color: #6cdede;
+}
